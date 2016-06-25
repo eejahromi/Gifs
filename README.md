@@ -2,6 +2,6 @@
 
 iOS 📱
 
-OS X 🖥
+Mac OS X/macOS 🖥
 
 watchOS ⌚️
