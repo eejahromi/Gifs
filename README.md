@@ -11,6 +11,7 @@ This repository contains Gifs (and some screenshots) of Apple's sample code proj
 * Pathfinder: GameplayKit Pathfinding Basics
 * PhotoProgress: Using NSProgress
 * StickyCorners: Using UIFieldBehavior and other UIDynamicBehaviors
+* ThreadedCoreData: Concurrent operations using Core Data
 * UIKitCatalog
 
 
@@ -20,6 +21,7 @@ This repository contains Gifs (and some screenshots) of Apple's sample code proj
 * Boxes: GameplayKit Entity-Component Basics
 * ComplexBrowser: Using NSBrowser class
 * Dispenser: GameplayKit State Machine Basics
+* Earthquakes: Populating a Core Data Store Using a Background Queue
 * Fireworks
 * IconCollection
 * ImageBrowser
