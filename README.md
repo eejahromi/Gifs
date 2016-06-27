@@ -9,7 +9,9 @@ This repository contains Gifs (and some screenshots) of Apple's sample code proj
 * Dispenser: GameplayKit State Machine Basics
 * UITableView Fundamentals
 * Pathfinder: GameplayKit Pathfinding Basics
+* PhotoProgress: Using NSProgress
 * StickyCorners: Using UIFieldBehavior and other UIDynamicBehaviors
+* UIKitCatalog
 
 
 
