@@ -7,6 +7,8 @@ This repository contains Gifs (and some screenshots) of Apple's sample code proj
 * Boxes: GameplayKit Entity-Component Basics
 * CloudKit Catalog: An Introduction to CloudKit (Cocoa and JavaScript)
 * Dispenser: GameplayKit State Machine Basics
+* GenericKeychain
+* HLS Catalog: Using AVFoundation to play and persist HTTP Live Streams
 * UITableView Fundamentals
 * Pathfinder: GameplayKit Pathfinding Basics
 * PhotoProgress: Using NSProgress
