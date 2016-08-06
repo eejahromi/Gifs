@@ -4,6 +4,7 @@ This repository contains Gifs (and some screenshots) of Apple's sample code proj
 
 ## 📱  iOS 
 
+* AppChat: Using Peek and Pop APIS
 * Boxes: GameplayKit Entity-Component Basics
 * CloudKit Catalog: An Introduction to CloudKit (Cocoa and JavaScript)
 * Dispenser: GameplayKit State Machine Basics
@@ -38,6 +39,7 @@ This repository contains Gifs (and some screenshots) of Apple's sample code proj
 
 
 ## ⌚  ️watchOS 
+
 * SwingWatch: Using Device Motion on the Watch
 
 ## 📺  tvOS
