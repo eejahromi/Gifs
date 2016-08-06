@@ -38,6 +38,7 @@ This repository contains Gifs (and some screenshots) of Apple's sample code proj
 
 
 ## ⌚  ️watchOS 
+SwingWatch: Using Device Motion on the Watch
 
 ## 📺  tvOS
 
